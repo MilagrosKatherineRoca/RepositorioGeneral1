@@ -1,0 +1,19 @@
+
+h1{
+margin-bottom: 50px;
+border: 3px red dashed;
+margin-left: 70px;
+margin-right: 70px;
+text-align: center;
+}
+p{
+    border: 1px black solid;
+    margin-top: 50px;
+    margin-left: 70px;
+    margin-right: 80px;
+    padding: 20px;
+    background-color: aquamarine;
+}
+body{
+    background-color: beige;
+}

@@ -1,0 +1,32 @@
+h1{
+    color: black;
+}
+
+p{
+    background-color: yellow;
+    border: 3px orange dashed;
+    width: 300px;
+    padding: 5px;
+    margin-right: 100px;
+}
+
+.imagen{
+    width: 300px;
+    border: 5px orange groove;
+    margin-right: 100px;
+    height: 150px;
+
+}
+
+
+div{
+    background-color: beige;
+    border: 4px chocolate double;
+    margin-left: 25%;
+    padding: 10px;
+    margin-right: 340px;
+    margin-top: 50px;
+}
+
+
+

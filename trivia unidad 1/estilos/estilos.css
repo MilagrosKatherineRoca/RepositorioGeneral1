@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wdth,wght@0,87.5,300..800;1,87.5,300..800&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Open+Sans:ital,wdth,wght@0,87.5,300..800;1,87.5,300..800&family=Pacifico&family=Raleway:ital,wght@0,500;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Montserrat:wght@600&family=Open+Sans:wght@300..800&family=Pacifico&family=Raleway:ital,wght@0,500;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@500&family=Geologica:wght@100..900&family=Montserrat:wght@600&family=Open+Sans:wght@300..800&family=Pacifico&family=Raleway:ital,wght@0,500;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@500&family=Geologica:wght@500&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Montserrat:wght@600&family=Open+Sans:wght@300..800&family=Pacifico&family=Raleway:ital,wght@0,500;1,500&display=swap');
+
+
+.principal{
+    text-align: center;
+    width: 600px;
+    height: 500px;
+    margin: auto;
+    border-radius: 10px;
+    border: 1px black solid;
+    color: rgb(217, 30, 13);
+    margin-top: 150px;
+    background-color: cornsilk;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.447);
+}
+
+.contenido{
+    background-color: cornsilk;
+    color: rgb(217, 30, 13) solid;
+    margin-top: 70px;
+    font-family: "Kanit", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+h1{
+    font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: #d8531f;
+  font-size: 40px;
+  margin-bottom: 4px;
+}
+
+h2{
+    margin: 0px;
+    font-size: 12px;
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(255, 211, 16);
+}
+
+.titulo2{
+    color: #3b0000;
+}
+
+.titulo{
+ background-color: #370617;
+    border-radius: 10px 10px 0 0;
+    padding: 5px;
+}
+
+body{
+    background-image: url("../multimedia/fondo2.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
+    
+}
+
+.categoria{
+    background-color: rgb(255, 203, 33);
+    color: brown;
+    border-radius: 2px;
+    width: 70px;
+    margin-top: 30px;
+    font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+.continuar{
+    border: 2px solid  #410c1f;
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+    text-decoration: rgb(226, 86, 43);
+    color: #8C3503;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-top: 10px;
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+.continuar:hover{
+    padding: 10px;
+    border-radius: 5px solid;
+    display: inline-block;
+    text-decoration: rgb(226, 86, 43);
+    color:brown;
+    background-color: rgb(255, 233, 39);
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+.siguiente{
+
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-right: 40px;
+    text-align: right;
+    float:right;
+    margin-top: 15px
+
+}
+ 
+.siguiente:hover{
+
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-right: 40px;
+    text-align: right;
+    float:right;
+    margin-top: 15px
+}
+
+.adorno{
+    width: 500px;
+    height: 70px;
+    margin: auto;
+    margin-top: 50px;
+
+}
+
+.gif{
+    width: 120px;
+    height: 60px;
+}
+
+.imagenes{
+    width: 300px;
+    height: 110px;
+    border: #fcce03 solid;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.literatura{
+    width: 450px;
+    height: 80px;
+    margin-top: 25px;
+}
+
+.textopregunta{
+    color: #3b0000;
+    text-align: left;
+    width: 450px;
+    height: 40px;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 10px;
+    margin-left: 70px;
+    margin-right: 30px;
+}
+
+.opcion{
+    color: #F2811D;
+    background-color: rgb(153, 5, 34);
+    border: 2px brown solid;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 20px;
+
+}
+
+.opcion:hover{
+    background-color: #F2811D;
+    color: rgb(153, 5, 34) ;
+    border: 2px rgb(25, 60, 124) solid ;
+}

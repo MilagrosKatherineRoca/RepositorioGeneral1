@@ -1,0 +1,11 @@
+.principal{
+    background-color: burlywood;
+    margin: auto;
+    width: 50%;
+    border-radius: 10px;
+    border: 2px black solid;
+    padding: 40px;
+    text-align: center;
+    height: 300px;
+}
+
